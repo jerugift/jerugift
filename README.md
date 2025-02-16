@@ -3,7 +3,7 @@
 👋 Hi, I’m Jerusha Giftlin, a tech enthusiast diving deep into the worlds of Artificial Intelligence, Machine Learning, and Deep Learning.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/cb/47/35/cb4735db50b7ed7336ec417c0eecfb48.gif">
                                                
-- 🌱 I aspire to be a Data Analyst skilled in Data Science and Visualization 
+- 🌱 I am a Data Analyst skilled in Analyzing, Visualizing and Programming
 - 😄 Pronouns: Code/Compiler
 - ⚡ Fun fact: My code sings in the perfect algo-rhythm 🎵
 
